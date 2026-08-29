@@ -11,8 +11,6 @@ We build developer tools and AI-powered products. No fluff, no enterprise sales 
 |---------|-------------|--------|-------|
 | ![Wazen](https://img.shields.io/badge/Wazen-25D366?style=flat-square&logoColor=white) | Unofficial WhatsApp API for developers. 4 SDKs, zero feature gating, 3-day free trial. | ![Live](https://img.shields.io/badge/Live-25D366?style=flat-square) | [Website](https://wazen.dev) · [Docs](https://wazen.dev/docs) · [npm](https://www.npmjs.com/package/@wazen/sdk) · [PyPI](https://pypi.org/project/wazen/) · [NuGet](https://www.nuget.org/packages/Wazen) · [Packagist](https://packagist.org/packages/wazen/sdk) |
 | ![Monolith](https://img.shields.io/badge/Monolith-7C3AED?style=flat-square&logo=windowsterminal&logoColor=white) | All-in-one desktop environment for agentic coding. IDE, multi terminal, voice, git, deployment one app. | ![Coming Soon](https://img.shields.io/badge/Coming_Soon-EAB308?style=flat-square) | — |
-| ![Riam](https://img.shields.io/badge/Riam-3B82F6?style=flat-square&logo=sparkles&logoColor=white) | AI personal assistant. Persistent memory, journaling, goals, tasks your life in one chat. | ![Coming Soon](https://img.shields.io/badge/Coming_Soon-EAB308?style=flat-square) | — |
-| ![Rihlax](https://img.shields.io/badge/Rihlax-64748B?style=flat-square&logo=bus&logoColor=white) | Transport management platform for UAE tourism operators. | ![Shelved](https://img.shields.io/badge/Shelved-64748B?style=flat-square) | [Website](https://rihlax.com) |
 
 ---
 
